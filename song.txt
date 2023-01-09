@@ -6,4 +6,11 @@ on this their chosen battle field
 Form the lines
 shield by shield
 
+<<<<<<< HEAD
 new line
+=======
+modification to uncommit
+and this...
+and 3rd line INDEED
+4th line
+>>>>>>> 9f173c6b40ee0d211a2e9dc0507d0af462b84951
