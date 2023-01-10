@@ -11,4 +11,8 @@ we are marching into destiny
 March as one
 Don't look back
 
+<<<<<<< HEAD
 new line done on 'master' branch
+=======
+new line added in branch 'feat'
+>>>>>>> feat
